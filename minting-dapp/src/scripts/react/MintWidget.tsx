@@ -150,7 +150,7 @@ export default class MintWidget extends React.Component<Props, State> {
               <strong></strong> {utils.formatEther(this.props.tokenPrice.mul(this.state.mintAmount))} ETH 
           </div>*/}
           {this.props.totalSupply}/{this.props.maxSupply}
-          <a className="ethlink" href="https://etherscan.io/address/0xa35346ef08F731AF6E7D3d1F5B948c1De0AEcc8C#code" target="_blank">0xa35346ef08F731AF6E7D3d1F5B948c1De0AEcc8C</a>
+          <a className="ethlink" href="https://etherscan.io/address/0x175DE18B85444EdF4e4b46fB0A1D7774d6Ba9fAf#code" target="_blank">0x175DE18B85444EdF4e4b46fB0A1D7774d6Ba9fA</a>
           <div className="maxmint">10 Max</div>
 
             <div className="main__controls">
